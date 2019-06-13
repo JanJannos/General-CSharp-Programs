@@ -1,0 +1,11 @@
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\bin\Debug\netcoreapp2.1\ThreadsPractice1.deps.json
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\bin\Debug\netcoreapp2.1\ThreadsPractice1.runtimeconfig.json
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\bin\Debug\netcoreapp2.1\ThreadsPractice1.runtimeconfig.dev.json
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\bin\Debug\netcoreapp2.1\ThreadsPractice1.dll
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\bin\Debug\netcoreapp2.1\ThreadsPractice1.pdb
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\obj\Debug\netcoreapp2.1\ThreadsPractice1.csprojAssemblyReference.cache
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\obj\Debug\netcoreapp2.1\ThreadsPractice1.csproj.CoreCompileInputs.cache
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\obj\Debug\netcoreapp2.1\ThreadsPractice1.AssemblyInfoInputs.cache
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\obj\Debug\netcoreapp2.1\ThreadsPractice1.AssemblyInfo.cs
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\obj\Debug\netcoreapp2.1\ThreadsPractice1.dll
+C:\Users\T410\source\repos\ThreadsPractice1\ThreadsPractice1\obj\Debug\netcoreapp2.1\ThreadsPractice1.pdb

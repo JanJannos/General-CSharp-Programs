@@ -1,0 +1,14 @@
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Tester.deps.json
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Tester.runtimeconfig.json
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Tester.runtimeconfig.dev.json
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Tester.dll
+C:\Users\T410\source\repos\TestingStuff\Tester\obj\Debug\netcoreapp2.1\Tester.csprojAssemblyReference.cache
+C:\Users\T410\source\repos\TestingStuff\Tester\obj\Debug\netcoreapp2.1\Tester.csproj.CoreCompileInputs.cache
+C:\Users\T410\source\repos\TestingStuff\Tester\obj\Debug\netcoreapp2.1\Tester.AssemblyInfoInputs.cache
+C:\Users\T410\source\repos\TestingStuff\Tester\obj\Debug\netcoreapp2.1\Tester.AssemblyInfo.cs
+C:\Users\T410\source\repos\TestingStuff\Tester\bin\Debug\netcoreapp2.1\Tester.pdb
+C:\Users\T410\source\repos\TestingStuff\Tester\obj\Debug\netcoreapp2.1\Tester.dll
+C:\Users\T410\source\repos\TestingStuff\Tester\obj\Debug\netcoreapp2.1\Tester.pdb

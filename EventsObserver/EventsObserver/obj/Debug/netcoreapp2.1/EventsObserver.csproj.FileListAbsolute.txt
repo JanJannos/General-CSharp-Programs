@@ -1,0 +1,11 @@
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\bin\Debug\netcoreapp2.1\EventsObserver.deps.json
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\bin\Debug\netcoreapp2.1\EventsObserver.runtimeconfig.json
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\bin\Debug\netcoreapp2.1\EventsObserver.runtimeconfig.dev.json
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\bin\Debug\netcoreapp2.1\EventsObserver.dll
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\bin\Debug\netcoreapp2.1\EventsObserver.pdb
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\obj\Debug\netcoreapp2.1\EventsObserver.csprojAssemblyReference.cache
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\obj\Debug\netcoreapp2.1\EventsObserver.csproj.CoreCompileInputs.cache
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\obj\Debug\netcoreapp2.1\EventsObserver.AssemblyInfoInputs.cache
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\obj\Debug\netcoreapp2.1\EventsObserver.AssemblyInfo.cs
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\obj\Debug\netcoreapp2.1\EventsObserver.dll
+C:\Users\T410\source\repos\EventsObserver\EventsObserver\obj\Debug\netcoreapp2.1\EventsObserver.pdb
